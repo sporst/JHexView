@@ -9,7 +9,7 @@ like hex editors or memory inspectors.
 To see the component in action, please check out screenshots of the hex editor
 Hexer that uses this component. You can find the screenshots at
 
-http://www.the-interweb.com/serendipity/index.php?/archives/96-Hexer-1.0.0.htm
+http://www.the-interweb.com/serendipity/index.php?/archives/96-Hexer-1.0.0.html
 
 Dependencies: https://github.com/sporst/splib
 
